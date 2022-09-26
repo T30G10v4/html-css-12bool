@@ -613,73 +613,73 @@ html {
 /*----------------------------------------------------------------------------------------------------------COLUMN PARTS----------------------------------------------------------------------------------------------------------------------------------------------*/
 
 /*COLUMNS*/
-.col-one {
+.col-xs-one {
 
   width: calc(100% / 12);
 
 }
 
-.col-two {
+.col-xs-two {
 
   width: calc(100% / 12 * 2);
 
 }
 
-.col-three {
+.col-xs-three {
 
   width: calc(100% / 12 * 3);
 
 }
 
-.col-four {
+.col-xs-four {
 
   width: calc(100% / 12 * 4);
 
 }
 
-.col-five {
+.col-xs-five {
 
   width: calc(100% / 12 * 5);
 
 }
 
-.col-six {
+.col-xs-six {
 
   width: calc(100% / 12 * 6);
 
 }
 
-.col-seven {
+.col-xs-seven {
 
   width: calc(100% / 12 * 7);
 
 }
 
-.col-eight {
+.col-xs-eight {
 
   width: calc(100% / 12 * 8);
 
 }
 
-.col-nine {
+.col-xs-nine {
 
   width: calc(100% / 12 * 9);
 
 }
 
-.col-ten {
+.col-xs-ten {
 
   width: calc(100% / 12 * 10);
 
 }
 
-.col-eleven {
+.col-xs-eleven {
 
   width: calc(100% / 12 * 11);
 
 }
 
-.col-twelve {
+.col-xs-twelve {
 
   width: 100%;
 

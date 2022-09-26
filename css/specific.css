@@ -2,8 +2,8 @@
 /*------VARIABLES------*/
 :root {
 
-    --bg-color-primo: blue;
-    --bg-color-secondo: red;
+    --bg-color-blue: blue;
+    --bg-color-green: green;
 
     
 }
@@ -11,14 +11,24 @@
 /*------COMMON PARTS------*/
 
 /*------SPECIFIED PARTS BY ID------*/
-.primo {
+.box {
 
-    background-color: var(--bg-color-primo);
+    
+    background-color: var(--bg-color-blue);
+    border: 1px solid white;
 
 }
 
-.secondo {
+.underbox {
 
-    background-color: var(--bg-color-secondo);
+    background-color: var(--bg-color-green);
+    border: 1px solid white;
+    height: calc(100vh / 12 - 2em);
+
+}
+
+section {
+
+    margin-bottom: 2rem;
 
 }
