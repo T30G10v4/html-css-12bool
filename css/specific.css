@@ -4,6 +4,7 @@
 
     --bg-color-blue: blue;
     --bg-color-green: green;
+    --bg-color-yellow: yellow;
 
     
 }
@@ -30,5 +31,13 @@
 section {
 
     margin-bottom: 2rem;
+
+}
+
+.yellowbox {
+
+    
+    background-color: var(--bg-color-yellow);
+    border: 1px solid black;
 
 }
